@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.EasyVet" parent="Theme.MaterialComponents.Light" />
+</resources>
